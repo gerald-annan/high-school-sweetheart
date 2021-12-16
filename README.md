@@ -131,6 +131,10 @@ HighSchoolSweetheart.pair("Blake Miller", "Riley Lewis")
 
 ## Source
 
+### Solved by
+
+- @gerald-annan
+
 ### Created by
 
 - @angelikatyborska
